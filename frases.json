@@ -1,30 +1,40 @@
 [
     {
 	"numero":"1",
-	"frase": "hola",
-	"libro": "Por Tus Hijos Te Conocerán",
+	"frase": "Ver el dolor de un hijo es el sufrimiento más grande que puede sentir un padre",
+	"libro": "Por tus hijos te conocerán",
 	"autor":"Raquel Guerrero",
 	"Fotografía por":"https://unsplash.com/@jvgarcia",
 	"Fotografía": "https://unsplash.com/@jvgarcia?photo=2Lb835v61Qo",
-	    "src": "https://images.unsplash.com/photo-1485400775732-c264026faba5?dpr=1&auto=format&fit=crop&w=1500&h=842&q=80&cs=tinysrgb&crop="
-	      },
-	{
+	"src":"https://images.unsplash.com/photo-1485400775732-c264026faba5?dpr=1&auto=format&fit=crop&w=1500&h=842&q=80&cs=tinysrgb&crop="
+    },
+
+        {
 	"numero":"2",
-	"frase": "otra vez",
-	"libro": "Por Tus Hijos Te Conocerán",
+	"frase": "Tu obligación no es ser amado por tus hijos. Tu obligación es ser buen padre",
+	"libro": "Por tus hijos te conocerán",
 	"autor":"Raquel Guerrero",
-	"Fotografía por":"https://unsplash.com/@jvgarcia",
-	"Fotografía": "https://unsplash.com/@jvgarcia?photo=2Lb835v61Qo",
-		"src": "https://images.unsplash.com/photo-1485400775732-c264026faba5?dpr=1&auto=format&fit=crop&w=1500&h=842&q=80&cs=tinysrgb&crop="
-	      },
-	{
+	"Fotografía por":"https://unsplash.com/@nhinton4",
+	"Fotografía": "https://unsplash.com/collections/399558/photos-for-parent-bloggers?photo=xwmkMRwD3Vg",
+	"src":"https://images.unsplash.com/photo-1482296727383-7cfe1448f154?dpr=1&auto=format&fit=crop&w=1500&h=2250&q=80&cs=tinysrgb&crop="
+	},
+        {
 	"numero":"3",
-	"frase": "uno mas",
-	"libro": "Por Tus Hijos Te Conocerán",
+	"frase": "Que nada perturbe tu necesidad de enseñar a tus hijos a respetar y amar",
+	"libro": "Por tus hijos te conocerán",
 	"autor":"Raquel Guerrero",
-	"Fotografía por":"https://unsplash.com/@jvgarcia",
-	"Fotografía": "https://unsplash.com/@jvgarcia?photo=2Lb835v61Qo",
-		"src": "https://images.unsplash.com/photo-1485400775732-c264026faba5?dpr=1&auto=format&fit=crop&w=1500&h=842&q=80&cs=tinysrgb&crop="
-	      }
+	"Fotografía por":"https://unsplash.com/@nhinton4",
+	"Fotografía": "https://unsplash.com/collections/399558/photos-for-parent-bloggers?photo=xbH-4dIdqrw",
+	"src":"https://images.unsplash.com/photo-1481089547640-4ed2edcc1db2?dpr=1&auto=format&fit=crop&w=1500&h=2250&q=80&cs=tinysrgb&crop="
+	},
+        {
+	"numero":"4",
+	"frase": "Si cometes un error, reconócelo sin justificarte. Esto enseñará a tus hijos a hacer lo mismo.",
+	"libro": "Por tus hijos te conocerán",
+	"autor":"Raquel Guerrero",
+	"Fotografía por":"https://unsplash.com/@mikael_k",
+	"Fotografía": "https://unsplash.com/photos/rIKqg36qlcg",
+	"src":"https://images.unsplash.com/photo-1478906401794-436b072d8452?dpr=1&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop="
+    },
 
 ]
