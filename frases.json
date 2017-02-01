@@ -35,7 +35,87 @@
 	"Fotografía por":"https://unsplash.com/@mikael_k",
 	"Fotografía": "https://unsplash.com/photos/rIKqg36qlcg",
 	"src":"https://images.unsplash.com/photo-1478906401794-436b072d8452?dpr=1&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop="
+	},
+
+        {
+	"numero":"5",
+	"frase": "Para cada niño su padre es un héroe, y su madre, la mujer más bonita que existe",
+	"libro": "Por tus hijos te conocerán",
+	"autor":"Raquel Guerrero",
+	"Fotografía por":"https://unsplash.com/@leandrocesarsantana01",
+	"Fotografía": "https://unsplash.com/photos/PLeOI9uGqb4",
+	"src":"https://images.unsplash.com/photo-1483188994179-b2d7f0b20180?dpr=1&auto=format&fit=crop&w=1500&h=1001&q=80&cs=tinysrgb&crop="
+    },
+
+        {
+	"numero":"6",
+	"frase": "El amor sabe escuchar",
+	"libro": "Por tus hijos te conocerán",
+	"autor":"Raquel Guerrero",
+	"Fotografía por":"https://unsplash.com/@liane",
+	"Fotografía": "https://unsplash.com/collections/399558/photos-for-parent-bloggers?photo=B32qg6Ua34Y",
+	"src":"https://images.unsplash.com/photo-1439920120577-eb3a83c16dd7?dpr=1&auto=format&fit=crop&w=1500&h=1125&q=80&cs=tinysrgb&crop="
+    },
+
+        {
+	"numero":"7",
+	"frase": "Vuelve consciente cada instante de tu vida. Repite con frecuencia el lugar donde te encuentras, lo que haces y la razón por la que estás ahí. Entonces, siéntete feliz y agradecido por estar ahí",
+	"libro": "Por tus hijos te conocerán",
+	"autor":"Raquel Guerrero",
+	"Fotografía por":"https://unsplash.com/@benwhitephotography",
+	"Fotografía": "https://unsplash.com/photos/4K2lIP0zc_k",
+	"src":"https://images.unsplash.com/photo-1472162072942-cd5147eb3902?dpr=1&auto=format&fit=crop&w=1500&h=1001&q=80&cs=tinysrgb&crop="
+    },
+
+        {
+	"numero":"8",
+	"frase": "Empieza a vivir ya con tus hijos tiempo de calidad. Mantenlos cerca de ti, verás que en cualquer momento surge la oportunidad de aprender a hacer algo bueno",
+	"libro": "Por tus hijos te conocerán",
+	"autor":"Raquel Guerrero",
+	"Fotografía por":"https://unsplash.com/@mafalou",
+	"Fotografía": "https://unsplash.com/photos/oUhSla4L_98",
+	"src":"https://images.unsplash.com/photo-1437943085269-6da5dd4295bf?dpr=1&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop="
+    },
+
+        {
+	"numero":"9",
+	"frase": "Dentro de ti se encuentra la maravilla de la vida, con toda su sabiduría",
+	"libro": "Por tus hijos te conocerán",
+	"autor":"Raquel Guerrero",
+	"Fotografía por":"https://unsplash.com/@freestocks",
+	"Fotografía": "https://unsplash.com/search/mother?photo=AOod3VqkEfQ",
+	"src":"https://images.unsplash.com/photo-1457954275879-87d67ee5507e?dpr=1&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop="
+    },
+
+        {
+	"numero":"10",
+	"frase": "La primera demostración que damos a nuestros hijos surge cuando aprendemos la responsabilidad de educarlos, cuidarlos y ayudarlos a crecer lo mejor posible",
+	"libro": "Por tus hijos te conocerán",
+	"autor":"Raquel Guerrero",
+	    "Fotografía por":"https://unsplash.com/@efro247",
+	"Fotografía": "https://unsplash.com/search/mother?photo=xrT9twwwC6Y",
+	"src":"https://images.unsplash.com/photo-1457153797314-80e6a376a555?dpr=1&auto=format&fit=crop&w=1500&h=1001&q=80&cs=tinysrgb&crop="
+    },
+
+        {
+	"numero":"11",
+	"frase": "Hay instantes por los que vale la pena arriesgar la vida. \n Uno es cuando podemos abrazar a nuestro hijo. \n Tú puedes hacerlo, levántate y abrázalo ¡ya!",
+	"libro": "Por tus hijos te conocerán",
+	"autor":"Raquel Guerrero",
+	"Fotografía por":"https://unsplash.com/@chucca",
+	"Fotografía": "https://unsplash.com/photos/g6neij8RQmg",
+	"src":"https://images.unsplash.com/photo-1473353027969-37b3c6ddc1f9?dpr=1&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop="
+    },
+
+        {
+	"numero":"12",
+	"frase": "El padre debe afianzarse a sus principios, a su fortaleza y a su amor, para evitar ser débil y complaciente",
+	"libro": "Por tus hijos te conocerán",
+	"autor":"Raquel Guerrero",
+	"Fotografía por":"https://unsplash.com/@dre0316",
+	"Fotografía": "https://unsplash.com/collections/233395/family?photo=xpxKHXmxwOM",
+	"src":"https://images.unsplash.com/photo-1467406821248-f0a1e57880bf?dpr=1&auto=format&fit=crop&w=1500&h=997&q=80&cs=tinysrgb&crop="
     }
 
+    
 ]
-
